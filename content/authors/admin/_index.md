@@ -64,7 +64,6 @@ user_groups:
 - Visitors
 ---
 
-I am an undergraduate student at Sharif University of technology. My research is currently focused on deep learning and machine learning .
-
+I am an undergraduate student at Sharif University of technology. My research is currently focused on deep learning and machine learning. Before university, I was mostly involved in mathematics and I represented my country, Iran, at 58th International Mathematical Olympiad, receiving a Silver medal.
 
 
