@@ -18,7 +18,7 @@ organizations:
   url: "http://sharif.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning, deep learning, reinforcement learning.
+bio: My research is currently focused on deep learning and machine learning.
 
 interests:
 - Machine Learning
