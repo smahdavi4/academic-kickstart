@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Feature Selection For Optimal Decision Making"
+title: "Feature Selection For Optimal Decisions"
 summary: ""
 authors: []
 tags: []
