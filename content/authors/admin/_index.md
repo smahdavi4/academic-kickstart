@@ -18,12 +18,11 @@ organizations:
   url: "http://sharif.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is currently focused on deep learning and machine learning.
+bio: .
 
 interests:
-- Machine Learning
-- Deep learning
-- Computer Vision
+- Machine Learning Theory
+- Graph Machine Learning
 
 education:
   courses:
@@ -64,6 +63,6 @@ user_groups:
 - Visitors
 ---
 
-I am an undergraduate student at Sharif University of technology. My research is currently focused on deep learning and machine learning. Before university, I was mostly involved in mathematics and I represented my country, Iran, at 58th International Mathematical Olympiad, receiving a Silver medal.
+I will start my master's studies at the University of British Columbia in fall 2021 under the supervision of <a href="https://www.cs.toronto.edu/~rjliao/">Dr. Renjie Liao</a> and <a href="https://sites.google.com/view/cthrampo">Dr. Christos Thrampoulidis</a>. I receieved my BSc from Sharif University of Technology. Before university, I was mostly involved in mathematics and I represented my country, Iran, at 58th International Mathematical Olympiad, receiving a Silver medal.
 
 
