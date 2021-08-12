@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: BSc student in Computer engineering
+role: M.A.Sc. student in Electrical and Computer Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Sharif University of Technology
-  url: "http://sharif.edu/"
+- name: University of British Columbia
+  url: "https://ubc.ca/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: .
@@ -26,7 +26,10 @@ interests:
 
 education:
   courses:
-  - course: BSc in Computer Engineering
+  - course: M.A.Sc. in Electrical and Computer Engineering
+    institution: University of British Columbia
+    year: 2021 - 2023
+  - course: B.Sc. in Computer Engineering
     institution: Sharif University of Technology
     year: 2017 - 2021
 
@@ -63,6 +66,6 @@ user_groups:
 - Visitors
 ---
 
-I will start my master's studies at the University of British Columbia in fall 2021 under the supervision of <a href="https://www.cs.toronto.edu/~rjliao/">Dr. Renjie Liao</a> and <a href="https://sites.google.com/view/cthrampo">Dr. Christos Thrampoulidis</a>. I receieved my BSc from Sharif University of Technology. Before university, I was mostly involved in mathematics and I represented my country, Iran, at 58th International Mathematical Olympiad, receiving a Silver medal.
+I am a master's student of Electrical and Computer Engineering at the University of British Columbia under the supervision of <a href="https://www.cs.toronto.edu/~rjliao/">Dr. Renjie Liao</a> and <a href="https://sites.google.com/view/cthrampo">Dr. Christos Thrampoulidis</a>. I receieved my BSc from Sharif University of Technology in Computer Engineering major.
 
 
