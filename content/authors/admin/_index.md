@@ -66,6 +66,6 @@ user_groups:
 - Visitors
 ---
 
-I am a master's student of Electrical and Computer Engineering at the University of British Columbia under the supervision of <a href="https://www.cs.toronto.edu/~rjliao/">Dr. Renjie Liao</a> and <a href="https://sites.google.com/view/cthrampo">Dr. Christos Thrampoulidis</a>. I receieved my BSc in Computer Engineering from Sharif University of Technology.
+I am a master's student of Electrical and Computer Engineering at the University of British Columbia working under the supervision of <a href="https://www.cs.toronto.edu/~rjliao/">Dr. Renjie Liao</a> and <a href="https://sites.google.com/view/cthrampo">Dr. Christos Thrampoulidis</a>. I receieved my BSc in Computer Engineering from Sharif University of Technology.
 
 
