@@ -22,7 +22,7 @@ bio: .
 
 interests:
 - Machine Learning Theory
-- Graph Machine Learning
+- Deep Learning with Structures
 
 education:
   courses:
