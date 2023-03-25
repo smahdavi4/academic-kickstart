@@ -44,12 +44,15 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/smmahdvi/
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=TQ3hhgkAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/smahdavi4
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/sadegh_mahdavi4
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
