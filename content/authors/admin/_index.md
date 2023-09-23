@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: M.A.Sc. student in Electrical and Computer Engineering
+role: PhD student in Electrical and Computer Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -21,11 +21,15 @@ organizations:
 bio: .
 
 interests:
-- Machine Learning Theory
-- Deep Learning with Structures
+- Geometric Deep Learning
+- Algorithmic and Mathematical Reasoning with Neural Networks (e.g., GNNs, LLMs)
+- Expressivity Analysis of Neural Networks
 
 education:
   courses:
+  - course: Ph.D. in Electrical and Computer Engineering
+    institution: University of British Columbia
+    year: 2023 - 2027
   - course: M.A.Sc. in Electrical and Computer Engineering
     institution: University of British Columbia
     year: 2021 - 2023
@@ -69,6 +73,8 @@ user_groups:
 - Visitors
 ---
 
-I am a master's student of Electrical and Computer Engineering at the University of British Columbia working under the supervision of <a href="https://lrjconan.github.io/">Dr. Renjie Liao</a> and <a href="https://sites.google.com/view/cthrampo">Dr. Christos Thrampoulidis</a>. I receieved my BSc in Computer Engineering from Sharif University of Technology.
+I am a PhD student in Electrical and Computer Engineering at the University of British Columbia working under the supervision of <a href="https://lrjconan.github.io/">Prof. Renjie Liao</a> and <a href="https://sites.google.com/view/cthrampo">Prof. Christos Thrampoulidis</a>. I earned my MASc degree in Electrical and Computer Engineering from the same institution. Prior to that, I receieved my BSc in Computer Engineering from Sharif University of Technology.
+
+My research is mainly focued on understanding the <a href="https://arxiv.org/abs/2306.02010">power</a> of neural networks, and how to enhance their <a href="https://arxiv.org/abs/2211.00692">reasoning</a> abilities, with a special emphasis on harnessing the potential of Transformers and Graph Neural Networks.
 
 
