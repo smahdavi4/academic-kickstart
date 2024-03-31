@@ -6,7 +6,7 @@ authors: ["Sadegh Mahdavi", "Kevin Swersky", "Thomas Kipf", "Milad Hashemi", "Ch
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "Transactions on Machine Learning Research (TMLR)"
+publication: "TMLR, Transactions on Machine Learning Research."
 url_pdf: "https://arxiv.org/pdf/2211.00692.pdf"
 url_code: "https://github.com/smahdavi4/clrs"
 ---
